@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Dec 04 09:39:43 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : iitb_cpu
+Top-level Entity Name : iitb_cpu
+Family : MAX 10
+Device : 10M25SAE144C8G
+Timing Models : Final
+Total logic elements : 5,845 / 24,960 ( 23 % )
+    Total combinational functions : 3,859 / 24,960 ( 15 % )
+    Dedicated logic registers : 4,295 / 24,960 ( 17 % )
+Total registers : 4295
+Total pins : 18 / 101 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 0 / 691,200 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 110 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )

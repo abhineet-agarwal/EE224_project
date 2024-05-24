@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Mon Dec 04 09:35:23 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : iitb_cpu
+Top-level Entity Name : iitb_cpu
+Family : MAX 10
+Total logic elements : 7,964
+    Total combinational functions : 3,858
+    Dedicated logic registers : 4,295
+Total registers : 4295
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

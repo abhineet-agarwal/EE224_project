@@ -1,0 +1,473 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M1'
+Slack : -18.370
+TNS   : -120.391
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M12'
+Slack : -17.785
+TNS   : -441.885
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M7'
+Slack : -17.444
+TNS   : -434.449
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.m141'
+Slack : -17.195
+TNS   : -411.373
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M13'
+Slack : -17.187
+TNS   : -254.681
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M10'
+Slack : -16.778
+TNS   : -163.674
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M15'
+Slack : -14.667
+TNS   : -216.670
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -13.535
+TNS   : -33333.762
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.m31'
+Slack : -12.606
+TNS   : -168.842
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.m21'
+Slack : -12.356
+TNS   : -116.297
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M0'
+Slack : -5.368
+TNS   : -67.218
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M2'
+Slack : -5.348
+TNS   : -15.821
+
+Type  : Slow 1200mV 85C Model Setup 'fsm_state.M14'
+Slack : -3.447
+TNS   : -22.884
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.m141'
+Slack : -3.917
+TNS   : -39.073
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M7'
+Slack : -3.790
+TNS   : -35.695
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M12'
+Slack : -3.435
+TNS   : -25.635
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M15'
+Slack : -3.377
+TNS   : -4.858
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M10'
+Slack : -2.182
+TNS   : -11.837
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -2.115
+TNS   : -3.353
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M2'
+Slack : -1.458
+TNS   : -2.147
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M13'
+Slack : -0.969
+TNS   : -2.395
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M14'
+Slack : -0.804
+TNS   : -0.804
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M1'
+Slack : 0.537
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.M0'
+Slack : 1.983
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.m31'
+Slack : 2.973
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'fsm_state.m21'
+Slack : 3.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -6389.665
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M0'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M7'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M1'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.m141'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M10'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M15'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M13'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M12'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.m21'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.m31'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M2'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fsm_state.M14'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M1'
+Slack : -17.642
+TNS   : -115.311
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M12'
+Slack : -17.153
+TNS   : -423.163
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M7'
+Slack : -16.813
+TNS   : -416.439
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.m141'
+Slack : -16.570
+TNS   : -393.268
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M13'
+Slack : -16.421
+TNS   : -244.625
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M10'
+Slack : -16.184
+TNS   : -157.960
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M15'
+Slack : -14.013
+TNS   : -208.195
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -12.775
+TNS   : -30893.850
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.m31'
+Slack : -12.051
+TNS   : -161.648
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.m21'
+Slack : -11.683
+TNS   : -108.520
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M0'
+Slack : -5.177
+TNS   : -63.086
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M2'
+Slack : -5.143
+TNS   : -15.426
+
+Type  : Slow 1200mV 0C Model Setup 'fsm_state.M14'
+Slack : -3.376
+TNS   : -22.288
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.m141'
+Slack : -3.723
+TNS   : -37.917
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M7'
+Slack : -3.599
+TNS   : -34.429
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M12'
+Slack : -3.245
+TNS   : -24.691
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M15'
+Slack : -3.013
+TNS   : -4.526
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M10'
+Slack : -1.967
+TNS   : -10.626
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -1.813
+TNS   : -2.874
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M2'
+Slack : -1.300
+TNS   : -1.892
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M13'
+Slack : -0.863
+TNS   : -2.140
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M14'
+Slack : -0.709
+TNS   : -0.709
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M1'
+Slack : 0.737
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.M0'
+Slack : 1.908
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.m31'
+Slack : 2.817
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'fsm_state.m21'
+Slack : 2.997
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -6389.665
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M0'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M10'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M15'
+Slack : 0.074
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M7'
+Slack : 0.091
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.m141'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M13'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M1'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.m31'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M12'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.m21'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M14'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fsm_state.M2'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M1'
+Slack : -7.058
+TNS   : -44.659
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M12'
+Slack : -6.387
+TNS   : -152.646
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M7'
+Slack : -6.269
+TNS   : -149.277
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.m141'
+Slack : -6.208
+TNS   : -143.413
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M10'
+Slack : -6.058
+TNS   : -52.372
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M13'
+Slack : -5.861
+TNS   : -85.679
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M15'
+Slack : -4.916
+TNS   : -71.264
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -4.814
+TNS   : -13274.366
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.m21'
+Slack : -4.752
+TNS   : -42.024
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.m31'
+Slack : -4.149
+TNS   : -52.028
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M0'
+Slack : -1.991
+TNS   : -24.429
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M2'
+Slack : -1.707
+TNS   : -3.948
+
+Type  : Fast 1200mV 0C Model Setup 'fsm_state.M14'
+Slack : -0.708
+TNS   : -4.093
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.m141'
+Slack : -1.805
+TNS   : -21.830
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M7'
+Slack : -1.774
+TNS   : -20.819
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M15'
+Slack : -1.744
+TNS   : -2.771
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M12'
+Slack : -1.653
+TNS   : -15.830
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M10'
+Slack : -1.162
+TNS   : -6.688
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -1.153
+TNS   : -2.461
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M2'
+Slack : -0.863
+TNS   : -1.365
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M13'
+Slack : -0.805
+TNS   : -2.239
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M14'
+Slack : -0.594
+TNS   : -0.594
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M1'
+Slack : -0.138
+TNS   : -0.193
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.m31'
+Slack : 0.934
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.M0'
+Slack : 1.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'fsm_state.m21'
+Slack : 1.401
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4489.963
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M7'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M15'
+Slack : 0.279
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M10'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.m31'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.m141'
+Slack : 0.336
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M13'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M0'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M14'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M12'
+Slack : 0.367
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.m21'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M2'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fsm_state.M1'
+Slack : 0.416
+TNS   : 0.000
+
+------------------------------------------------------------
